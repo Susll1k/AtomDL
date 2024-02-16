@@ -57,6 +57,10 @@
     height: 80px;
     text-align: left;
     border: 1px solid rgb(28, 28, 28);
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    gap: 50px;
   }
   
   .dropdown-content {
@@ -92,7 +96,7 @@
 
   
   .dropdown:hover  + .dropdown {
-    margin-top: 125px;
+    margin-top: 145px;
   }
 
 .course_container{
