@@ -46,10 +46,11 @@ header {
 }
 .barnner {
   width: 100%;
-  background-image: url(fbb296a52252b9285a9c0b5623c708a0.jpg); opacity: 0.75;
+  background-image: url(img/fbb296a52252b9285a9c0b5623c708a0.jpg); opacity: 0.75;
   height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 
 .misbox {
@@ -129,7 +130,7 @@ header {
 .suslik {
   height: 270px;
   width: 430px;
-  background-image: url(20201215_2309-2.jpg);
+  background-image: url(img/20201215_2309-2.jpg);
 }
 
 .txy {

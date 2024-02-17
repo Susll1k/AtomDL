@@ -46,7 +46,9 @@
     font-size: 90px;
     width: 50%;
     height: 450px;
-    background-color: #4B61A6;
+    background-image: url(img/65c66fdc0dbfd2b76450cd43fd425e6f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .txtlar{
 
