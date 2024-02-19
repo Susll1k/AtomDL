@@ -1,0 +1,129 @@
+* {
+    color: aliceblue;
+    align-items: center;
+    margin: 0;
+    font-family: "Kanit", sans-serif;
+  }
+  
+  a,u {
+    text-decoration: none;
+  }
+  
+  body {
+    background: #0d0d0d;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  header {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #141414;
+  }
+  .ynix {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .inicio {
+    display: flex;
+    gap: 100px;
+    font-size: 20px;
+  }
+.test{
+    width: 80%;
+    max-height:3200px;
+    background-color: #1e1e1e;
+    text-align: left;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}
+header {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+.ynix {
+    font-weight: bold;
+    font-size: 30px;
+  }
+.inicio {
+    display: flex;
+    gap: 100px;
+    font-size: 20px;
+  }
+body{
+    background-color: #141414;
+    align-items: center;
+}
+h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+}
+h3{
+  padding-bottom:10px;
+}
+.textboxx{
+    display: flex;
+    flex-direction: row;
+    background-color:#4B61A6;
+    width: 600px;
+    height: 80px;
+    gap:20px;
+    padding: 15px;
+}
+.textbox{
+    width: 200px;
+    height: 20px;
+    stroke: none;
+    background-color: #B3ADD9;
+    text-decoration: none;
+    outline: none;
+    border: none;
+}
+.radioo{
+    display: flex;
+    flex-direction: row;
+    background-color:#4B61A6;
+    width: 600px;
+    height: 80px;
+    gap:20px;
+    padding: 15px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+input.radio{
+    width:15px;
+    height: 15px;
+    stroke: none;
+    background-color: #1e1e1e;
+    accent-color: #4B61A6;
+}
+.checkboxx{
+    display: flex;
+    flex-direction: row;
+    background-color:#4B61A6;
+    width: 600px;
+    height: 200px;
+    gap:20px;
+    padding: 15px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+input.button{
+  width:138px;
+  height:50px;
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #4B61A6;
+  border: none;
+  border-radius:25px;
+}
